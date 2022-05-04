@@ -10,7 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git",
-		"author": "Sandro Cárdenas"
+		"url": "https://idontknow/todo.git"
 	}
 }
